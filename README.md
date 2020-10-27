@@ -1,5 +1,5 @@
 # Splash
 
-### Splash is an Elegant and Concise Virtual Currency Creating Platform with REST API.
+### Splash is an Elegant and Concise Virtual Currency Creating Platform.
 
 Includes features such as currency creation, valuation, trade and transfer.
